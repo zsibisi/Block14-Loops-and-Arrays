@@ -1,4 +1,5 @@
 
+// create a function that initializes two variables, consonantsCount and vowelsCount, to count the number of consonants and vowels in the input word.
 
 function countConsonantsAndVowels(word) {
     // Initialize variables to count consonants and vowels
