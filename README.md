@@ -1,4 +1,4 @@
-# Block14-Loops-and-Arrays
+Loops-and-Arrays
 Workshop - 14.
 
 Welcome to this coding workshop! Today, we'll be completing four coding challenges using our knowledge of arrays, loops, and other JavaScript fundamentals.
